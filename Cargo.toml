@@ -1,0 +1,9 @@
+[package]
+name = "ajuste_elevation"
+version = "0.1.0"
+authors = ["jmarzin <jacques.marzin@free.fr>"]
+edition = "2018"
+
+[dependencies]
+quick-xml = "0.13.3"
+chrono = "0.4"
